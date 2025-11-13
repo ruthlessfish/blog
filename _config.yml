@@ -1,1 +1,5 @@
-theme: minima
+theme: jekyll-theme-hacker
+title: ruthlessfish/blog
+description: A short description of your site's purpose
+show_downloads: false
+google_analytics: G-SLZXSF3TWT
